@@ -5,7 +5,7 @@ gem 'binding_of_caller'
 gem 'rake'
 
 group :test do
-  gem 'mocha', '~> 1.3.0'
+  gem 'mocha', '~> 1.11.2'
   gem 'rspec'
   gem 'rubocop', '>= 0.77.0'
 end
